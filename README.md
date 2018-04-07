@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # About
 
@@ -85,3 +86,7 @@ npm run local (访问本地后台系统，需运行node-elm后台系统)
 ## License
 
 [GPL](https://github.com/bailicangdu/vue2-manage/blob/master/COPYING)
+=======
+# element-ui-webpack-vue-cli
+element-ui 的vue后台管理系统
+>>>>>>> 5f6bc80f5c3906b37552ac5ec9053b66ee07e733
